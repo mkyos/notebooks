@@ -1,0 +1,3 @@
+- [长度是怎样炼成的](chrome-extension://ipjogfeblagoilekmobpdocdbfdedgdp/data/reader/index.html?id=318) #[[数理逻辑]]
+- [ ] [社会事实如何产生规范性？——论法律实证主义对“休谟法则”的解决方案](https://mp.weixin.qq.com/s/vTvBt-zGw7gJhMCKhFNTrw) #文献
+- 
